@@ -1,5 +1,6 @@
 # LLMs Interview 八股文
 
+测试提交
 
 ## 简介
 
@@ -19,8 +20,7 @@
 
 欢迎关注微信公众号，会不定期更新LLM内容，以及一些面试经验：
 
- <img src=https://github.com/wdndev/personal/blob/main/image/llmers_weixin.jpg width = "427" height = "156" alt="weixin" />
-
+<img src=https://github.com/wdndev/personal/blob/main/image/llmers_weixin.jpg width = "427" height = "156" alt="weixin" />
 
 ## 目录
 
@@ -32,7 +32,7 @@
 
 ##### 1.2 常见大模型
 
-1. [llama系列模型](01.大语言模型简介/llama系列模型/llama系列模型.md )
+1. [llama系列模型](01.大语言模型简介/llama系列模型/llama系列模型.md)
 2. [chatglm系列模型](01.大语言模型简介/chatglm系列模型/chatglm系列模型.md)
 
 ##### 1.3 LLM基础题目
@@ -46,7 +46,7 @@
 3. [位置编码](02.大语言模型基础/3.位置编码/3.位置编码.md)
 4. [tokenize分词](02.大语言模型基础/4.tokenize分词/4.tokenize分词.md)
 5. [token及模型参数](02.大语言模型基础/4.token及模型参数/4.token及模型参数.md)
-6. [激活函数](02.大语言模型基础/5.激活函数/5.激活函数.md )
+6. [激活函数](02.大语言模型基础/5.激活函数/5.激活函数.md)
 
 ##### 2.2 大语言模型结构
 
@@ -63,8 +63,8 @@
 5. [序列并行](04.分布式训练/5.序列并行/5.序列并行.md)
 6. [多维度混合并行](04.分布式训练/6.多维度混合并行/6.多维度混合并行.md)
 7. [自动并行](04.分布式训练/7.自动并行/7.自动并行.md)
-8. [moe并行](04.分布式训练/8.moe并行/8.moe并行.md )
-9. [总结](04.分布式训练/9.总结/9.总结.md )
+8. [moe并行](04.分布式训练/8.moe并行/8.moe并行.md)
+9. [总结](04.分布式训练/9.总结/9.总结.md)
 
 ##### 4.2 DeepSpeed
 
@@ -103,13 +103,12 @@
 2. [vLLM](06.推理/1.vllm/1.vllm.md "1.vllm")
 3. [Text Generation Inference](06.推理/2.text_generation_inference/2.text_generation_inference.md "2.text_generation_inference")
 4. [Faster Transformer](06.推理/3.faster_transformer/3.faster_transformer.md "3.faster_transformer")
-5.  [TRT LLM](06.推理/4.trt_llm/4.trt_llm.md "4.trt_llm")
+5. [TRT LLM](06.推理/4.trt_llm/4.trt_llm.md "4.trt_llm")
 
 ##### 6.2 推理优化技术
 
 1. [LLM推理优化技术](06.推理/llm推理优化技术/llm推理优化技术.md "llm推理优化技术")
 2. [LLM推理常见参数](06.推理/LLM推理常见参数/LLM推理常见参数.md)
-
 
 ##### 6.3 推理相关题目
 
@@ -137,7 +136,6 @@
 ##### 8.1 RAG
 
 1. [检索增强llm](08.检索增强rag/检索增强llm/检索增强llm.md)
-
 2. [rag（检索增强生成）技术](08.检索增强rag/rag（检索增强生成）技术/rag（检索增强生成）技术.md)
 
 ##### 8.2 Agent
@@ -161,16 +159,13 @@
 
 1. [思维链（cot）](10.大语言模型应用/1.思维链（cot）/1.思维链（cot）.md "1.思维链（cot）")
 
-
-
-
 ##### 10.2 LangChain 框架
 
 1. [langchain](10.大语言模型应用/1.langchain/1.langchain.md "1.langchain")
 
 ### [98.LLMs相关课程](98.LLMs相关课程/README.md)
 
-### [99.参考资料](99.参考资料/README.md )
+### [99.参考资料](99.参考资料/README.md)
 
 ## 更新记录
 
@@ -193,8 +188,3 @@
 - 2023.11.22 ： 5.高效微调
 - 2023.11.10 ： 4.LangChain
 - 2023.11.08 ： 建立仓库；1.基础，2.进阶，3.微调
-
-
-
-
-
