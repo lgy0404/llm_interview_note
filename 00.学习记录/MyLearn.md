@@ -9,6 +9,10 @@
   * 待解决的问题：
     * jupyter notebook conda环境
     * api调用的时候代理设置
+* 20240614
+  * 添加langchain例程
+  * 在vscode中运行
+  * 换用deepseek模型，API和URL已设置环境变量
 
 ## TODO
 
