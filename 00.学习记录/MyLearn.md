@@ -13,6 +13,10 @@
   * 添加langchain例程
   * 在vscode中运行
   * 换用deepseek模型，API和URL已设置环境变量
+* 20240615
+  * 切换回了GPT
+  * 新建conda环境：langchain
+  * 完成第一个langchain例程的学习
 
 ## TODO
 
