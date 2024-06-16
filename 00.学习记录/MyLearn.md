@@ -17,6 +17,8 @@
   * 切换回了GPT
   * 新建conda环境：langchain
   * 完成第一个langchain例程的学习
+* 20240616
+  * 完成langchain-memory的学习
 
 ## TODO
 
