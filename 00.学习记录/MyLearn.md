@@ -19,6 +19,9 @@
   * 完成第一个langchain例程的学习
 * 20240616
   * 完成langchain-memory的学习
+* 20240617
+  * 完成langchain-chain的学习
+  * 待解决问题：API调用超时，一直没结果
 
 ## TODO
 
