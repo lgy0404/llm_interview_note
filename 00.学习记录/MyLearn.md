@@ -21,7 +21,10 @@
   * 完成langchain-memory的学习
 * 20240617
   * 完成langchain-chain的学习
-  * 待解决问题：API调用超时，一直没结果
+  * 待解决问题：API调用超时，一直没结果【240618更新：conda环境问题，用py39可以】
+* 20240618
+  * 5.Question and Answer看了一半
+  * 中间向量库搭建报错代解决
 
 ## TODO
 
