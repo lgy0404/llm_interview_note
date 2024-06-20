@@ -25,6 +25,8 @@
 * 20240618
   * 5.Question and Answer看了一半
   * 中间向量库搭建报错代解决
+* 20240620
+  * langchain例程学习结束
 
 ## TODO
 
