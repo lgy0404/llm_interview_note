@@ -31,7 +31,11 @@
   * 08.检索增强rag/大模型agent技术
 * 20240622
   * 08.检索增强rag/rag（检索增强生成）技术
+* 20240623
+  * langchain rag 环境配置报错待解决
+  * 
 
 ## TODO
 
 * https://www.langchain.com.cn/use_cases/agent_simulations/camel_role_playing
+*
