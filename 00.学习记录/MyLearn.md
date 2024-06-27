@@ -53,6 +53,10 @@
 * 20240626
 
   * 到02.大语言模型架构/1.attention
+* 20240627
+
+  * 学习注意力机制代码  `code/259_注意力机制.ipynb`
+  * 后边pytorch相关的代码统一存储到 `https://github.com/lgy0404/pytotch-learn`
 
 ## TODO
 
