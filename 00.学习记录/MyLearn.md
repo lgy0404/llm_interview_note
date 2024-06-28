@@ -57,6 +57,9 @@
 
   * 学习注意力机制代码  `code/259_注意力机制.ipynb`
   * 后边pytorch相关的代码统一存储到 `https://github.com/lgy0404/pytotch-learn`
+* 20240628
+
+  * **注意力机制代码  `code/259_注意力机制.ipynb` 没看懂先跳过**
 
 ## TODO
 
