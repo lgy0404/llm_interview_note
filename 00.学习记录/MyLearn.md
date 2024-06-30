@@ -63,6 +63,12 @@
 * 20240629
 
   * `code/260_注意力分数.ipynb` 没看懂先跳过
+* 20240630
+
+  * 切换transformers库，d2l太老了！
+  * transformers
+    * [【手把手带你实战HuggingFace Transformers-入门篇】基础知识与环境安装](https://www.bilibili.com/video/BV1ma4y1g791/?spm_id_from=333.788&vd_source=65e0a21e65c5e67e051e0f63a24a7aeb)
+  * pytorch看土堆的足矣
 
 ## TODO
 
