@@ -69,6 +69,9 @@
   * transformers
     * [【手把手带你实战HuggingFace Transformers-入门篇】基础知识与环境安装](https://www.bilibili.com/video/BV1ma4y1g791/?spm_id_from=333.788&vd_source=65e0a21e65c5e67e051e0f63a24a7aeb)
   * pytorch看土堆的足矣
+* 240701
+
+  * 土堆pytorch代码精读：100-107
 
 ## TODO
 
