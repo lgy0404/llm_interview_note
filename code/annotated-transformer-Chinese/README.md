@@ -1,4 +1,11 @@
+# 学习说明
+
+* 240703
+  * 在nesc ubuntu新建conda环境` transformer`
+* 
+
 # annotated-transformer-Chinese
+
 Transformer论文Attention is All You Need的代码中文注释实现，翻译自harvardnlp/annotated-transformer
 本项目是对原始项目 The Annotated Transformer 的中文翻译和注解版本。旨在使原始项目更加直观、易于理解，并提供中文示例以帮助读者更好地使用该项目。
 
