@@ -75,6 +75,16 @@
 * 240702
 
   * 土堆pytorch代码精读：108-122，完结！
+* 240703
+
+  * transformer代码逐行精读资料整理
+* 240704
+
+  * 添加源码
+    * https://github.com/wmathor/nlp-tutorial.git
+  * 对应视频
+    * https://www.bilibili.com/video/BV1Qg4y1P7r4/?spm_id_from=333.337.search-card.all.click&vd_source=65e0a21e65c5e67e051e0f63a24a7aeb
+  * 
 
 ## TODO
 
