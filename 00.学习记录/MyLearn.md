@@ -81,10 +81,14 @@
 * 240704
 
   * 添加源码
+
     * https://github.com/wmathor/nlp-tutorial.git
   * 对应视频
+
     * https://www.bilibili.com/video/BV1Qg4y1P7r4/?spm_id_from=333.337.search-card.all.click&vd_source=65e0a21e65c5e67e051e0f63a24a7aeb
-  * 
+* 240708
+
+  * 视频学习，感觉现在找的资料不是很可用
 
 ## TODO
 
