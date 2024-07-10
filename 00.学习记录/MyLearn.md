@@ -93,6 +93,10 @@
 
   * 添加代码：https://github.com/lansinuote/Transformer_Example.git
   * 确定transformer学习视频：https://www.bilibili.com/video/BV19Y411b7qx?p=1&vd_source=65e0a21e65c5e67e051e0f63a24a7aeb
+* 240710
+
+  * 视频看到：12.代码讲解训练和测试
+  * 源码需要静心看啊！
 
 ## TODO
 
